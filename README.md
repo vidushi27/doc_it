@@ -12,7 +12,7 @@ The dataset used contains documents from the Tobacco industry in 10 different cl
 8 Resume
 9 Scientific
 
-The AlexNet architecture is used. 
+The following AlexNet architecture is used:
 
 ![0*pJ3o_2zTTNnixhKH](https://user-images.githubusercontent.com/25797655/216047904-bb229cb5-52dd-42c4-87e8-c4b068daac1e.png)
 
