@@ -1,3 +1,6 @@
+This repo is all about document recognition and analysis in the research direction of ICDAR
+
+
 The original dataset can be downloaded here: https://lampsrv02.umiacs.umd.edu/projdb/project.php?id=72.
 The dataset used contains documents from the Tobacco industry in 10 different classes:
 
