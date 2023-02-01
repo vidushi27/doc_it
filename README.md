@@ -19,5 +19,3 @@ The following AlexNet architecture is used:
 
 ![0*pJ3o_2zTTNnixhKH](https://user-images.githubusercontent.com/25797655/216047904-bb229cb5-52dd-42c4-87e8-c4b068daac1e.png)
 
-The pretrained weights can be found here:
-http://www.cs.toronto.edu/%7Eguerzhoy/tf_alexnet/
